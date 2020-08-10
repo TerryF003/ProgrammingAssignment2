@@ -1,4 +1,4 @@
-## Matrix inversion is usually a time consuming computation and there may be some 
+## Matrix inversion is time consuming computation and there may be some 
 ## benefit to caching the inverse of a matrix rather than repeadely computing it
 ## Below are two functions that cache the inverse of a matrix.
 ## It is assumed that the matrix supplied is always invertible, as per instructions.
